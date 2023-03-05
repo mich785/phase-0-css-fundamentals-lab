@@ -3,3 +3,22 @@ body {
   height: 100%;
   margin: 0;
 }
+header{text-align: center;}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+ nav a{padding: 10px;
+background-color: azure;}
+figcaption{font-size: small;
+  text-align: center;
+}
+section > p{text-align: center;
+width: 800px;
+margin: auto;
+line-height: normal;}
+div{float: left;
+background-color: #ff6600;
+text-align: center;
+width: 25%;}
